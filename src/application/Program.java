@@ -20,7 +20,7 @@ public class Program {
 
 		System.out.print("Digite o nome do departamento: ");
 		String departmentName = sc.nextLine();
-		System.out.print("Digite os dados do colaborador: ");
+		System.out.println("Digite os dados do colaborador: ");
 		System.out.print("Nome: ");
 		String workerName = sc.nextLine();
 		System.out.print("Level: ");
